@@ -1,0 +1,45 @@
+<resources>
+    <!-- Strings for Animals class -->
+    <string name="app_name">Music Structure App</string>
+    <string name="animals_voices">Animals Voices</string>
+    <string name="title_activity_animals">Animals</string>
+    <string name="Dog">Dog</string>
+    <string name="Cat">Cat</string>
+    <string name="Corrocodile">Corrocodile</string>
+    <string name="Eliphant">Eliphant</string>
+    <string name="Camel">Camel</string>
+    <string name="Wolf">Wolf</string>
+    <string name="Snake">Snake</string>
+    <string name="Horse">Horse</string>
+    <string name="Lion">Lion</string>
+    <string name="Cow">Cow</string>
+    <string name="Fox">Fox</string>
+    <string name="Giraffe">Giraffe</string>
+    <string name="kangaroo">kangaroo</string>
+    <string name="Zebra">Zebra</string>
+
+    <!-- Strings for Numbers class -->
+
+    <string name="one">One</string>
+    <string name="tow">Tow</string>
+    <string name="three">Three</string>
+    <string name="four">Four</string>
+    <string name="five">Five</string>
+    <string name="sex">Sex</string>
+    <string name="seven">Seven</string>
+    <string name="eight">Eight</string>
+    <string name="nine">Nine</string>
+    <string name="ten">Ten</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_to_satrt_the_animals_activity">Image to satrt the animals activity</string>
+    <string name="opens_numbers_activity">opens numbers activity</string>
+
+
+    <string name="animals">Animal</string>
+    <string name="numbers">Number</string>
+    <string name="voices">Voices</string>
+    <string name="voices_for_kids">Voices For Kids</string>
+
+</resources>

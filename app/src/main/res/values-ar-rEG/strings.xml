@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الاصوات للأطفال</string>
+    <string name="animals_voices">أصوات الحيوانات</string>
+    <string name="title_activity_animals">الحيوانات</string>
+    <string name="Dog">كلب</string>
+    <string name="Cat">قطة</string>
+    <string name="Corrocodile">تمساح</string>
+    <string name="Eliphant">فيل</string>
+    <string name="Camel">جمل</string>
+    <string name="Wolf">ذئب</string>
+    <string name="Snake">ثعبان</string>
+    <string name="Horse">حصان</string>
+    <string name="Lion">أسد</string>
+    <string name="Cow">بقرة</string>
+    <string name="Fox">ثعلب</string>
+    <string name="Giraffe">زرافة</string>
+    <string name="kangaroo">كنغر</string>
+    <string name="Zebra">حمار وحشي</string>
+    <string name="hello_blank_fragment">مرحبا</string>
+    <string name="one">واحد</string>
+    <string name="tow">اثنان</string>
+    <string name="three">ثلاثة</string>
+    <string name="four">أربعة</string>
+    <string name="five">خمسة</string>
+    <string name="sex">ستة</string>
+    <string name="seven">سبعة</string>
+    <string name="eight">ثمانية</string>
+    <string name="nine">تسعة</string>
+    <string name="ten">عشرة</string>
+    <string name="image_to_satrt_the_animals_activity">صورة من اجل فتح الاكتيفيتي الخاصة ب الحيوانات</string>
+    <string name="opens_numbers_activity">صورة من اجل فتح الاكتيفيتي الخاصة ب الارقام</string>
+    <string name="voices">الأصوات</string>
+</resources>
