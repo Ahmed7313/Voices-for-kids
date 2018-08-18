@@ -5,9 +5,13 @@ The app shows a list of animals and numbers using CustomAdapter
 with caring for best Audio practices like voice duking and Audio focuse.
 
 **This is how the app looks like**
+
 <a href="https://imgflip.com/gif/2g2h0j"><img src="https://thumbs.gfycat.com/WealthyGiddyAmericanwirehair-size_restricted.gif" title="made at imgflip.com"/></a>
 
+
+
 # The goal of this project was to learn:
+
 
 - Recycling the used views and using CustomAdapters with fragment
 
